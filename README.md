@@ -32,5 +32,7 @@ Atente-se às dependências do Navigations, Screens e Picker.
 <img width="309" height="554" alt="image" src="https://github.com/user-attachments/assets/30e49db2-0b74-43df-a40b-8b5f1eb54110" />
 <img width="312" height="552" alt="image" src="https://github.com/user-attachments/assets/40289150-bd97-4ffe-9042-cc2b229519fc" />
 <img width="309" height="551" alt="image" src="https://github.com/user-attachments/assets/d4eddb50-4482-4cb6-8062-2a0cafad7cd5" />
+<img width="312" height="552" alt="image" src="https://github.com/user-attachments/assets/10240665-2a9b-4e77-b633-2ef462f4eb4e" />
+
 
 
